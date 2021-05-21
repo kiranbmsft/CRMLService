@@ -1,0 +1,8 @@
+name: production-deploy-to-aks-2
+dependencies:
+- pip:
+  - azureml-sdk
+  - matplotlib
+  - tqdm
+  - scipy
+  - sklearn
