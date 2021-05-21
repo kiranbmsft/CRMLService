@@ -18,6 +18,9 @@ Use Front door vs Traffic manager for latency
 
 ![image](https://user-images.githubusercontent.com/79932367/119146104-4c7a5880-ba18-11eb-986d-5ffd54fb59b7.png)
 
+![image](https://user-images.githubusercontent.com/79932367/119147466-9e6fae00-ba19-11eb-858e-12b7784b4b87.png)
+
+
 
 
 
