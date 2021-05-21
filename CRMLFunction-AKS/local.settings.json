@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "web_service_url":"http://20.75.4.164:80/api/v1/service/aks-service-1/score",
+    "api_key":"LNu3mEXEevdOUmKtZ2hN7uyUQRfhgq5p"
+  }
+}
