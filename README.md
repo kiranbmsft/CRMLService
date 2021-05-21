@@ -21,6 +21,16 @@ Use Front door vs Traffic manager for latency
 ![image](https://user-images.githubusercontent.com/79932367/119147466-9e6fae00-ba19-11eb-858e-12b7784b4b87.png)
 
 
+Artifacts
+
+Model exists in a AML workspace and is deployed to two AKS clusters in different regions.
+Two functions created in different regions calls the deployed ML model endpoints in different regions. For example- Model end point deployed in East is called by the Function deployed in East.
+The function is called as an App service via the Front Door
+
+To Do
+
+Create ARM/terrform templates to deploy this solution rapidly from Front Door to the AML model.
+Keep updating this repo with other examples.
 
 
 
